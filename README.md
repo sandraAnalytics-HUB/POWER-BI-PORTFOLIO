@@ -1,7 +1,7 @@
 # AIR CRASH AND FATALITIES ANALYSIS 
 ## dashboard preview
 
-![Dashboard screenshot](air crash and fatalities PNG 2.png)
+! [Dashboard screenshot] (Air crash and fatalities 1.png )
 
 
 PROJECT OVERVIEW:
