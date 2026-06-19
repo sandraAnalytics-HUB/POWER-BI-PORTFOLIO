@@ -1,4 +1,8 @@
 # AIR CRASH AND FATALITIES ANALYSIS 
+## dashboard preview
+
+![Dashboard screenshot](air crash and fatalities PNG 2.png)
+
 
 PROJECT OVERVIEW:
 This project analyzes historical aviation crash data to uncover trends, patterns, and safety insights across aircraft operators, locations, routes, and aircraft types. The dashboard is build using Power BI to transform raw crash records into actionable insights through interactive visualizations and key performance indicators (KPIs). The goal of this projects is to provide a comprehensive overview of aviation accidents and fatalities while demonstrating data cleaning, modelling, DAX calculations, and data visualization skills. 
