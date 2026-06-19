@@ -3,6 +3,7 @@
 
 ![Dashboard Screenshot](Air%20crash%20and%20fatalities%201.png)
 
+![Dashboard Screenshot](Air%20crash%20and%20Fatalities%202.png)
 
 
 PROJECT OVERVIEW:
